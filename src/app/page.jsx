@@ -14,32 +14,32 @@ export default function Home() {
         <ul className="grid justify-items-center lg:grid-cols-1 gap-8 md:gap-12 my-8">
         <Link href="/bullous">
           <div className="drop-shadow-2xl text-white text-center rounded-xl bg-[#006747] w-80 py-6 px-4">  
-            <h5 className="text-xl font-semibold mb-2">Bullous Diseases</h5>
+            <h5 className="text-xl font-semibold mb-2">BULLOUS DISEASES</h5>
           </div>
         </Link>
         <Link href="/vascul"> 
           <div className="text-white text-center rounded-xl bg-[#006747] w-80 py-6 px-4">   
-              <h5 className="text-xl font-semibold mb-2">Vasculitis</h5>
+              <h5 className="text-xl font-semibold mb-2">VASCULITIS</h5>
           </div>
         </Link>
         <Link href="/panni">
           <div className="text-white text-center rounded-xl bg-[#006747]  w-80 py-6 px-4">   
-            <h5 className="text-xl font-semibold mb-2">Panniculitis</h5>
+            <h5 className="text-xl font-semibold mb-2">PANNICULITIS</h5>
           </div>
        </Link>
       <Link href="/infect">
         <div className="text-white text-center rounded-xl bg-[#006747]  w-80 py-6 px-4">  
-          <h5 className="text-xl font-semibold mb-2">Infectious</h5>
+          <h5 className="text-xl font-semibold mb-2">INFECTIOUS</h5>
         </div>
       </Link>
       <Link href="/ctd">
        <div className="text-white text-center rounded-xl bg-[#006747]  w-80 py-6 px-4">  
-         <h5 className="text-xl font-semibold mb-2">Connective Tissue Disease</h5> 
+         <h5 className="text-xl font-semibold mb-2">CONNECTIVE TISSUE DISEASE</h5> 
        </div>
        </Link>
        <Link href="/porphyria">
        <div className="text-white text-center rounded-xl bg-[#006747] w-80 py-6 px-4">
-         <h5 className="text-xl font-semibold mb-2">Porphyria</h5>
+         <h5 className="text-xl font-semibold mb-2">PORPHYRIA</h5>
        </div>
        </Link>
        <Link href="/sjs">
@@ -49,7 +49,7 @@ export default function Home() {
       </Link>
       <Link href="/cutaneous">
       <div className="text-white text-center rounded-xl bg-[#006747] w-80 py-6 px-4">  
-         <h5 className="text-xl font-semibold mb-2">Cutaneous Lymphoma</h5>
+         <h5 className="text-xl font-semibold mb-2">CUTANEOUS LYMPHOMA</h5>
       </div>
       </Link>
       </ul>
